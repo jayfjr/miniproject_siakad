@@ -1,36 +1,3 @@
 # miniproject_siakad
 Sistem Informasi Akademik (SIAKAD) Mini berbasis web yang dibangun menggunakan PHP Native, MySQL, dan Bootstrap 5. Dilengkapi dengan autentikasi multi-role (Admin, Dosen, Mahasiswa), manajemen master data berbasis modal, absensi perkuliahan real-time, serta kalkulasi nilai akhir dan IPS otomatis.
 
-username    password    role
-admin	      admin12345  admin	
-08166	      08166	      dosen
-08197	      08197	      dosen
-15018	      15018	      dosen
-25001	      25001	      dosen
-2431417079	2431417079	mahasiswa
-2431417037	2431417037	mahasiswa
-2431416955	2431416955	mahasiswa
-2531499933	2531499933	mahasiswa
-2611495107	2611495107	mahasiswa
-2431417093	2431417093	mahasiswa
-2431410898	2431410898	mahasiswa
-2422416772	2422416772	mahasiswa
-2431416812	2431416812	mahasiswa
-2431417078	2431417078	mahasiswa
-2431435961	2431435961	mahasiswa
-2431416836	2431416836	mahasiswa
-2622498520	2622498520	mahasiswa
-2411410930	2411410930	mahasiswa
-2411417028	2411417028	mahasiswa
-2431417081	2431417081	mahasiswa
-2431417094	2431417094	mahasiswa
-2431417090	2431417090	mahasiswa
-2431417097	2431417097	mahasiswa
-2431417077	2431417077	mahasiswa
-2422471080	2422471080	mahasiswa
-2322469052	2322469052	mahasiswa
-2422477108	2422477108	mahasiswa
-2322477607	2322477607	mahasiswa
-2421477037	2421477037	mahasiswa
-2212476036	2212476036	mahasiswa
-2321476957	2321476957	mahasiswa
